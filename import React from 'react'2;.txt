@@ -1,0 +1,12 @@
+import React from 'react';
+
+const HomePage = () => {
+    return (
+        <div>
+            <h1>Welcome to the Pharmacy & Laboratory System</h1>
+            <p>Explore our services, products, and more.</p>
+        </div>
+    );
+};
+
+export default HomePage;
